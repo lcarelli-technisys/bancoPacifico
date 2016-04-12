@@ -1,0 +1,2 @@
+# bancoPacifico
+appCordova
